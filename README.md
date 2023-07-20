@@ -1,6 +1,8 @@
-### Olá me chamo Ian tenho 18 anos!!
-- 💬 Bacharel em Engenharia de Software, 2 Semestre
-- ✔ Técnico em Informática para Web
+### Olá me chamo Ian!!
+- Bacharel em Engenharia de Software, 2.º semestre 💬
+- Técnico em Informática para Web ✔
+
+##
 
 <div>
   <img align="center" alt="Ian-JS" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
