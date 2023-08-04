@@ -1,4 +1,4 @@
-### Olá me chamo Ian!!
+### Olá seja bem-vindo(a)!!
 - Bacharel em Engenharia de Software, 2.º semestre 💬
 - Técnico em Informática para Web ✔
 
