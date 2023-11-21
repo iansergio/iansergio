@@ -5,7 +5,6 @@
 ##
 
 <div>
-  <img align="center" alt="Ian-JS" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ian-PYTHON" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Ian-HTML" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ian-CSS" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
