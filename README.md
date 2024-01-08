@@ -13,6 +13,6 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/ian-sergio-175866207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="www.linkedin.com/in/ian-sergio-helfenberger-175866207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
