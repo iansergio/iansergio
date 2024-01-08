@@ -1,6 +1,6 @@
 ### Olá seja bem-vindo(a)!!
-- Bacharel em Engenharia de Software, 3.º semestre 💬
-- Técnico em Informática para Web ✔
+- Engenharia de Software - Univille, 3.º semestre 💬
+- Técnico em Informática para Web - Senac ✔
 
 ##
 
