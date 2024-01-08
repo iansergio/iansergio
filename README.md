@@ -1,5 +1,5 @@
 ### Olá seja bem-vindo(a)!!
-- Bacharel em Engenharia de Software, 2.º semestre 💬
+- Bacharel em Engenharia de Software, 3.º semestre 💬
 - Técnico em Informática para Web ✔
 
 ##
