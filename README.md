@@ -1,6 +1,6 @@
 **`Desenvolvedor Backend`**
 
-Me chamo Ian Sergio Helfenberger, tenho 20 anos e natural de Joinville Santa Catarina. Atualmente curso Engenharia de Software na Univille e estudo boas práticas de desenvolvimento de software tais como SOLID e Clean Architecture. Juntamente com a construção de apis rest escaláveis e de fácil manutenção utilizando principalmente Java.
+Me chamo Ian Sergio Helfenberger, tenho 21 anos e natural de Joinville Santa Catarina. Atualmente curso Engenharia de Software na Univille e estudo boas práticas de desenvolvimento de software tais como SOLID e Clean Architecture. Juntamente com a construção de apis rest escaláveis e de fácil manutenção utilizando principalmente Java.
 
 <hr>
 
