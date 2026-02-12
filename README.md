@@ -12,16 +12,15 @@ Me chamo Ian Sergio Helfenberger, tenho 21 anos e natural de Joinville Santa Cat
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## GitHub Stats
+<!--
 <div>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iansergio&layout=compact&theme=dracula)
   ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iansergio&show_icons=true&theme=dracula)
   
 </div>
-
-
-<!--
 -->
