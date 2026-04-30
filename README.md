@@ -10,7 +10,7 @@ Hi, I’m Ian — a software developer focused on backend systems and data engin
   📫 Contact <a href="mailto:iansergiohelf@gmail.com" target="blank_"> iansergiohelf@gmail.com</a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,azure,python,postgres,mysql,docker,ts,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,python,azure,postgres,mysql,docker,ts,nodejs,html,css)](https://skillicons.dev)
 
 <!--
 ### Technologies
