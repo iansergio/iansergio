@@ -1,4 +1,12 @@
-## Hi there 👋
+#### **`Software Engineer`** 
+
+<p> 
+  👋️ Hi, I’m Ian and I enjoy building applications where clean and maintainable code is the priority. <br> 
+  🎓️ Also graduating in Software Engineering at <a href="https://www.univille.edu.br" target="_blank">Univille</a>. <br> <br>
+  💻️ Technologies that I work with: 
+</p>
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,azure,aws)](https://skillicons.dev)
 
 <!--
 **iansergio/iansergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
