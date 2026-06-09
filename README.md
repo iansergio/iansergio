@@ -6,7 +6,7 @@
   💻️ Technologies that I work with: 
 </p>
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,linux,azure,aws)](https://skillicons.dev)
 
 <!--
 **iansergio/iansergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
